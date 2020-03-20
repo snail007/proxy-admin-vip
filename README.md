@@ -4,9 +4,9 @@ Windows：C:\gpa\id.txt
 Linux & MacOS : /etc/gpa/id.txt  
 
 ## 下载
-[点击下载](https://github.com/snail007/proxy-admin-vip/releases)
 
-[镜像下载](http://mirrors.host900.com/snail007/proxy-admin-vip)
+[点击下载](http://mirrors.host900.com/snail007/proxy-admin-vip)
 
 ## 安装
-[proxy-admin](https://github.com/snail007/proxy_admin_free/blob/master/README_ZH.md) 
+
+[点击查看安装教程](https://github.com/snail007/proxy_admin_free/blob/master/README_ZH.md#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8) 
