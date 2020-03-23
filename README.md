@@ -10,3 +10,7 @@ Linux & MacOS : /etc/gpa/id.txt
 ## 安装
 
 [点击查看安装教程](https://github.com/snail007/proxy_admin_free/blob/master/README_ZH.md#%E5%BC%80%E5%A7%8B%E4%BD%BF%E7%94%A8) 
+
+## 购买
+
+购买请加GOPROXY商业版官方QQ群：746489979
