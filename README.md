@@ -5,7 +5,7 @@ Linux & MacOS : /etc/gpa/id.txt
 
 ## 下载
 
-[点击下载](http://mirrors.host900.com/snail007/proxy-admin-vip)
+[点击下载](http://mirrors.host900.com:9090/snail007/proxy-admin-vip)
 
 ## 安装
 
