@@ -13,4 +13,4 @@ Linux & MacOS : /etc/gpa/id.txt
 
 ## 购买
 
-购买请加GOPROXY商业版官方QQ群：746489979
+购买请加官方QQ售前群：624502196
