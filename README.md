@@ -5,10 +5,30 @@ proxy-admin vip 版本,`功能和免费版一致，服务数量无限制`.
 Windows：C:\gpa\id.txt  
 Linux & MacOS : /etc/gpa/id.txt  
 
+[Manual](https://snail.gitee.io/proxy/manual/) ｜ [参考手册](https://snail.gitee.io/proxy/manual/zh/)
+
+手册同时适用于命令行goproxy和proxyadmin面板，控制面板只是命令行goproxy的界面化，使用参数完全一样。
+
+## 国内下载
+
+请在github的下载链接前面加上: `https://mirrors.host900.com/` 。
+
+比如`v2.8`的github下载链接是：
+
+`https://github.com/snail007/proxy-admin-vip/releases/download/v2.8/proxy-admin_linux-amd64.tar.gz`
+
+那么国内下载地址就是：
+
+`https://mirrors.host900.com/https://github.com/snail007/proxy-admin-vip/releases/download/v2.8/proxy-admin_linux-amd64.tar.gz`
+
+此地址也适用于wget，curl直接命令行下载。
+
 
 ## 下载
 
-[点击下载](https://mirrors.host900.com/snail007/proxy-admin-vip)
+[点击下载](https://github.com/snail007/proxy-admin-vip/releases)
+
+国内请参考上面的国内下载。
 
 ## 安装
 
