@@ -39,3 +39,35 @@ Linux & MacOS : /etc/gpa/id.txt
 1. 授权平台可以在线自助购买，点击进入[授权平台](https://gpm.host900.com/)。
 
 2. 特殊需求请发送邮件到：`arraykeys@gmail.com`  
+
+## 升级更新
+
+### Linux
+用`root`打开一个终端。
+
+```shell
+proxy-admin update
+```
+
+已经安装了最新的版本，默认不会更新，如果想强制更新加上 -f 参数即可。
+
+```shell
+proxy-admin update -f
+```
+
+### Windows
+用`管理员`权限打开命令提示符窗口。
+
+```bat
+c:\
+cd gpa
+proxy-admin update
+```
+
+已经安装了最新的版本，默认不会更新，如果想强制更新加上 -f 参数即可。
+
+```shell
+c:\
+cd gpa
+proxy-admin update -f
+```
