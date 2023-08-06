@@ -11,7 +11,7 @@ Linux & MacOS : /etc/gpa/id.txt
 
 ## 国内下载
 
-请在github的下载链接前面加上: `https://mirrors.host900.com/` 。
+请在github的下载链接前面加上: `https://mirrors.goproxyauth.com/` 。
 
 比如`v2.8`的github下载链接是：
 
@@ -19,7 +19,7 @@ Linux & MacOS : /etc/gpa/id.txt
 
 那么国内下载地址就是：
 
-`https://mirrors.host900.com/https://github.com/snail007/proxy-admin-vip/releases/download/v2.8/proxy-admin_linux-amd64.tar.gz`
+`https://mirrors.goproxyauth.com/https://github.com/snail007/proxy-admin-vip/releases/download/v2.8/proxy-admin_linux-amd64.tar.gz`
 
 此地址也适用于wget，curl直接命令行下载。
 
