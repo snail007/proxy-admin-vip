@@ -9,7 +9,29 @@ Linux & MacOS : /etc/gpa/id.txt
 
 手册同时适用于命令行goproxy和proxyadmin面板，控制面板只是命令行goproxy的界面化，使用参数完全一样。
 
-## 国内下载
+## 快速安装
+
+如果你的VPS是 linux 64位的系统，那么只需要执行下面一句，就可以完成自动安装和配置.
+
+提示:所有操作需要root权限。
+
+国内：
+
+```shell  
+bash -c "$(curl -s -L https://mirrors.goproxyauth.com/https://github.com/snail007/proxy-admin-vip/blob/master/install_auto.sh)" @ cn   
+```  
+
+国外：
+
+```shell  
+bash -c "$(curl -s -L https://github.com/snail007/proxy-admin-vip/blob/master/install_auto.sh)" 
+```  
+
+安装完成，配置目录是/etc/gpa，更详细的使用方法请参考上面的手册目录，进一步了解你想要使用的功能。
+
+如果安装失败或者你的vps不是linux64位系统，请按照下面的手动安装步骤安装。
+
+## 手动国内下载
 
 请在github的下载链接前面加上: `https://mirrors.goproxyauth.com/` 。
 
